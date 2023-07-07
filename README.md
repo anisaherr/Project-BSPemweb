@@ -1,6 +1,6 @@
-# Toko Buku Online
+# Toko Buku Sederhana
 
-Toko Buku Online adalah sebuah proyek yang bertujuan untuk menyediakan platform jual beli buku secara online. Dalam proyek ini, terdapat berbagai fitur yang memungkinkan pengguna untuk login, mendaftar, menjelajahi katalog buku, berinteraksi dengan penjual, dan melakukan proses pembelian dengan mudah. 
+Toko Buku Sederhana adalah sebuah proyek yang bertujuan untuk menyediakan platform jual beli buku. Dalam proyek ini, terdapat berbagai fitur yang memungkinkan pengguna untuk login, mendaftar, menjelajahi katalog buku, berinteraksi dengan penjual, dan melakukan proses pembelian dengan mudah. 
 
 ## Fitur
 
